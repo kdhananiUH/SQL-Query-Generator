@@ -1,7 +1,7 @@
 # SQL-Query-Generator
 
 + The SQL Query Generator is a tool that allows users to upload CSV data and generate SQL queries based on their prompts.
-+ It utilizes the 'gemini-pro' model from Google GenerativeAI for efficient query generation.
++ I have used 'gemini-pro' model from Google GenerativeAI for efficient query generation.
 
 + Please refer to below images for the demo:
 
