@@ -1,3 +1,7 @@
 # SQL-Query-Generator
 
-![Screenshot (31)](https://github.com/kdhananiUH/SQL-Query-Generator/assets/111707291/25c2138e-db73-481c-b257-f02f1b8da1fd)
++ The SQL Query Generator is a tool that allows users to upload CSV data and generate SQL queries based on their prompts.
++ It utilizes the Google Gemini for efficient query generation.
+
++ Please refer to below images for the demo:
+
